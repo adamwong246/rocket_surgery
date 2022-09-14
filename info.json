@@ -1,0 +1,14 @@
+{
+  "name": "rocket_surgery",
+  "version": "0.0.1",
+  "title": "Rocket Surgery",
+  "description": "Rocket science is tough, and rockets have a way of failing. - Sally Ride",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base >= 1.1.21",
+    "? Rocket-Silo-Construction >= 1.2.3"
+  ],
+  "author": "adamwong246",
+  "contact": "adamwong246@gmail.com",
+  "homepage": "https://github.com/adamwong246/rocket_surgery"
+}
