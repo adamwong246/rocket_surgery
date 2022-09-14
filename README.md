@@ -12,3 +12,6 @@ You must now build your rocket silo on-sight, in stages. Credits to https://mods
 - The silo no longer has any resistances.
 - The silo is now a military target.
 
+![setup](https://raw.githubusercontent.com/adamwong246/rocket_surgery/master/demoSetup.png)
+![demoElectricity](https://raw.githubusercontent.com/adamwong246/rocket_surgery/master/demoElectricity.png)
+![demoPollution](https://raw.githubusercontent.com/adamwong246/rocket_surgery/master/demoPollution.png)
